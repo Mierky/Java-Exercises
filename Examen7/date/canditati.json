@@ -1,0 +1,65 @@
+[
+  {
+    "cod_candidat": 1,
+    "nume_candidat": "Pop Marcel",
+    "media": 8.50,
+    "optiuni": [
+      {
+        "cod_liceu": 1,
+        "cod_specializare": 1
+      }
+    ]
+  },
+  {
+    "cod_candidat": 2,
+    "nume_candidat": "Patrascu Cosmin",
+    "media": 9.55,
+    "optiuni": [
+      {
+        "cod_liceu": 1,
+        "cod_specializare": 2
+      },
+      {
+        "cod_liceu": 1,
+        "cod_specializare": 3
+      },
+      {
+        "cod_liceu": 1,
+        "cod_specializare": 4
+      }
+    ]
+  },
+  {
+    "cod_candidat": 3,
+    "nume_candidat": "Viulet Cosmina",
+    "media": 9.80,
+    "optiuni": [
+      {
+        "cod_liceu": 1,
+        "cod_specializare": 3
+      }
+    ]
+  },
+  {
+    "cod_candidat": 4,
+    "nume_candidat": "Manucu Denisa",
+    "media": 9.50,
+    "optiuni": [
+      {
+        "cod_liceu": 2,
+        "cod_specializare": 1
+      }
+    ]
+  },
+  {
+    "cod_candidat": 5,
+    "nume_candidat": "Radu Vlad",
+    "media": 10.00,
+    "optiuni": [
+      {
+        "cod_liceu": 3,
+        "cod_specializare": 2
+      }
+    ]
+  }
+]

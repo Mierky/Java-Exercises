@@ -1,0 +1,8 @@
+Telefon Samsung,GADGET,2000
+Telefon Apple,GADGET,3000
+Televizor LG,TV,2500
+Televizor Samsung,TV,3000
+Laptop Dell,PC,4000
+Laptop HP,PC,3500
+Tableta Lenovo,GADGET,1500
+Smartwatch Apple,WEARABLE,2000

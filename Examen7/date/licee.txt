@@ -1,0 +1,6 @@
+1,Alexandru Ioan Cuza,4
+1,10,2,20,3,50,4,35
+2,Sava,3
+1,20,2,100,3,50
+3,Mihai Viteazu,2
+1,10,2,20
